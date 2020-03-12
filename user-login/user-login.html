@@ -1,0 +1,34 @@
+
+<form class="user-login-form container-full" data-drupal-selector="user-login-form" action="/user/login" method="post" id="user-login-form" accept-charset="UTF-8">
+    <div class="sign-in">
+        <div class="sign-in-body text-center">
+            <h3 class="margin-bottom-xs">Welcome</h3>
+            <div class="form-wrapper">
+                <p class="body-2 user-login-intro-text no-margin-top margin-bottom-md classic-login">Please sign in.</p>
+                <p class="body-2 cas-login gul-hidden">
+                    You will be redirected to the secure CAS login page.
+                </p>
+
+                <div class="js-form-item form-item js-form-type-textfield form-item-name js-form-item-name margin-bottom-sm classic-login">
+                    <label for="edit-name" class="js-form-required form-required">Username</label>
+                    <input placeholder="Username" autocorrect="none" autocapitalize="none" spellcheck="false" autofocus="autofocus" data-drupal-selector="edit-name" aria-describedby="edit-name--description" type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required full-width" required="required" aria-required="true" />
+                </div>
+                <div class="js-form-item form-item js-form-type-password form-item-pass js-form-item-pass margin-bottom-sm  classic-login">
+                    <label for="edit-pass" class="js-form-required form-required">Password</label>
+                    <input placeholder="Password" data-drupal-selector="edit-pass" aria-describedby="edit-pass--description" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required  full-width" required="required" aria-required="true" />
+                </div>
+
+                <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+                    <input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Log in" class="button js-form-submit form-submit button-lg bg-elmo full-width classic-login" />
+                    <a href="/caslogin" class="button button-lg bg-elmo cas-login full-width gul-hidden">Sign in</a>
+                </div>
+            </div>
+        </div>
+        <div class="sign-in-footer text-center">
+            <p class="body-2 no-margin">
+                <a href="#" id="cas-link">Log in using CAS</a>
+                <a href="#" id="uncas-link" class="gul-hidden" >Cancel CAS login</a>
+            </p>
+        </div>
+    </div>
+</form>

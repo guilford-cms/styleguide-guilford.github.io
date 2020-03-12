@@ -1,0 +1,20 @@
+[
+  {
+    "item": "<div class=\"gul-listing-block layout-row no-padding-top\"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-snippet\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_snippet\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Academic Program</a></p></div></div>"
+  },
+  {
+    "item": "<div class=\"gul-listing-block layout-row \"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-video\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_video\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><p class=\"description no-margin text-uppercase\">April 5, 2016</p><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Video</a></p></div></div>"
+  },
+  {
+    "item": "<div class=\"gul-listing-block layout-row\"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-snippet\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_snippet\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Academic Program</a></p></div></div>"
+  },
+  {
+    "item": "<div class=\"gul-listing-block layout-row \"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-video\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_video\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><p class=\"description no-margin text-uppercase\">April 5, 2016</p><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Video</a></p></div></div>"
+  },
+  {
+    "item": "<div class=\"gul-listing-block layout-row\"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-snippet\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_snippet\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Academic Program</a></p></div></div>"
+  },
+  {
+    "item": "<div class=\"gul-listing-block layout-row last \"><div class=\"gul-col-2 gul-col-gt-sm-1 gul-icon-wrapper\"><svg class=\"gul-icon color-count gul-icon-video\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"/icons/core-icons.svg#icon-icon_video\"></use></svg></div><div class=\"gul-col-10 gul-col-gt-sm-11 gul-content-wrapper\"><p class=\"description no-margin text-uppercase\">April 5, 2016</p><h4 class=\"gul-list-item-title\"><a href=\"#example-link\">Majors, Minors, and Programs</a></h4><p class=\"description\"><a href=\"#example-link\">Video</a></p></div></div>"
+  }
+]
